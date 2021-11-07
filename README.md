@@ -10,8 +10,8 @@ Simply copy groups from one AD user to another with a little bit of Powershell G
 3. Choose the user to copy groups TO and press OK 
 4. Choose groups to copy (you can select any or all) and press OK
 
-The script will display a confirmation window upon successful completion or any errors if unsuccessful  
-
 ![](https://github.com/kkuderko/AD-CopyGroupMembership/blob/main/img01.png)
+
+The script will display a confirmation window upon successful completion or any errors if unsuccessful  
 
 ![](https://github.com/kkuderko/AD-CopyGroupMembership/blob/main/img02.png)
